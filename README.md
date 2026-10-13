@@ -22,7 +22,7 @@ I'm building toward a career in **Cloud Security Engineering on Microsoft Azure*
 
 ## What I'm working on
 
-- 🔧 Hands-on Azure and hybrid identity labs, published in [`cloud-projects`](../../cloud-projects)
+- 🔧 Hands-on Azure and hybrid identity labs, published in [`cloud-projects`]([../../cloud-projects](https://github.com/tmgomeslopes-cmyk/Cloud-Projetcts)
 - 📚 Preparing for the Microsoft Azure path (certification roadmap below)
 - 🎓 Completing my BSc in Computer Engineering
 
